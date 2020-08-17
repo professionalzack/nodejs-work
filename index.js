@@ -1,0 +1,1 @@
+console.log('no config. try `npm run task1` or `npm run task2`');
