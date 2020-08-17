@@ -1,7 +1,7 @@
 import fs from 'fs';
 import csv from 'csvtojson';
 
-const csvFilePath = 'assets/h1-ex1.csv';
+const csvFilePath = 'h1-ex1.csv';
 
 const readStream = fs.createReadStream(csvFilePath);
 
